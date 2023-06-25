@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+.hero {
+	display: flex;
+}
+button {
+	background: red;
+	color: white;
+	border-radius: 5px;
+	border: 0px;
+	height: 25px;
+}
